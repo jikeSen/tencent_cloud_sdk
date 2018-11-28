@@ -1,0 +1,19 @@
+{
+    "name": "jikesen/tencent_cloud_sdk",
+    "description": "腾讯云开发包",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jikeSen",
+            "email": "569045356@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jikesen\\tencent_cloud_sdk\\":"src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
